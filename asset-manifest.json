@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/expiry_checker/static/css/main.cc1713e1.css",
+    "main.js": "/expiry_checker/static/js/main.b5e88792.js",
+    "static/js/453.35eac5d5.chunk.js": "/expiry_checker/static/js/453.35eac5d5.chunk.js",
+    "static/media/0811228.jpg": "/expiry_checker/static/media/0811228.1278903b0b204fd4d752.jpg",
+    "static/media/indian.gif": "/expiry_checker/static/media/indian.952b6d32e25822b44347.gif",
+    "static/media/vegetables.gif": "/expiry_checker/static/media/vegetables.76a75c06dc87694df5a2.gif",
+    "static/media/fruit.gif": "/expiry_checker/static/media/fruit.122d1bc40e6507e72127.gif",
+    "static/media/milk.gif": "/expiry_checker/static/media/milk.49f3e4172010d940cc84.gif",
+    "static/media/meat.gif": "/expiry_checker/static/media/meat.b0ef3f37299257932009.gif",
+    "static/media/Bread Coffee.ttf": "/expiry_checker/static/media/Bread Coffee.62eed2203a49ebd4c8eb.ttf",
+    "static/media/drinks.gif": "/expiry_checker/static/media/drinks.f15de9298aec1e821ffa.gif",
+    "static/media/logo.svg": "/expiry_checker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/expiry_checker/index.html",
+    "main.cc1713e1.css.map": "/expiry_checker/static/css/main.cc1713e1.css.map",
+    "main.b5e88792.js.map": "/expiry_checker/static/js/main.b5e88792.js.map",
+    "453.35eac5d5.chunk.js.map": "/expiry_checker/static/js/453.35eac5d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc1713e1.css",
+    "static/js/main.b5e88792.js"
+  ]
+}
