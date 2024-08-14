@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'CustomFont3';
+    src: url('../Assets/Bread\ Coffee.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+.card-container{
+    width:"5rem";
+    height:"5rem";
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: start;
+    width:"2rem";
+    height:"5rem";
+    padding:1rem;
+    border:2px solid black;
+    border-radius: 1rem;
+    background-color: white;
+
+}
+.container1{
+    display:grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+@media (min-width:1000px){
+    .container1{
+        display:grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        gap: 1rem;
+        padding: 1rem;
+    }
+    .item{
+        font-size: 1rem;
+        padding: 1rem;
+    }
+    .display{
+        width: 100%;
+        height:auto;
+        border-radius: 1rem;
+        padding: 2px;
+    }
+    .days-left{
+        padding-left: 13rem; 
+    }
+    .days{
+        border:2px solid green;
+        border-radius: 1rem;
+        padding: 7px;
+        width:6rem;
+    }
+    .delete{
+        padding-left: 14rem; 
+    
+    }
+    .delete-btn{
+        border-radius: 1rem;
+        padding: 7px;
+        width:6rem;
+        background-color: tomato;
+        color:white;
+        font-family: 'CustomFont3',sans-serif;
+    
+    }
+}
